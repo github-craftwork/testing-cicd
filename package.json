@@ -4,7 +4,8 @@
   "description": "a package that tells you the week number",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build":"npx parcel build index.js"
   },
   "repository": {
     "type": "git",
